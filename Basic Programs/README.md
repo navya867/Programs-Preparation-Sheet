@@ -20,4 +20,27 @@
     Both a and b are negative and the flag is true.
 13. Check if tuple is distinct or not
     Given a tuple arr , print "True" if all elements of tuple are different otherwise print "False".
-14. 
+14. Given a tuple arr with distinct elements and an integer x, find the index position of x. Assume to have x in the tuple always. Print the index (0-based).
+    Examples:
+    Input: arr = (1, 2, 3, 4, 5), x = 3
+    Output: 2
+15. Given two integers d and n. Where d is the day, out of 7 days of the week, d varies from 0 to 6 as shown below.
+    0 - Sunday 1 - Monday 2 - Tuesday 3 - Wednesday 4 - Thursday 5 - Friday 6 - Saturday
+    You have to return the index for the day which is n days before the given day d.
+16. Given a dictionary, and a list of queries(keys), you have to find and print the value of each query from the dictionary if present else it prints "None".
+    Input:
+    dict = {1:"abc", 2: "cde", 3: "fgh"}
+    query = [2, 3, 4]
+    Output:
+    cde
+    fgh
+    None
+17. Given a temperature in celsius C. You have to convert it in Fahrenheit and viceversa
+18. Given a number n , subtract one from it using bitwise operations.
+19. Given a decimal number n, return its binary equivalent.
+20. 
+
+
+
+
+
