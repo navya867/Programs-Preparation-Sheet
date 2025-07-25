@@ -38,7 +38,7 @@
 17. Given a temperature in celsius C. You have to convert it in Fahrenheit and viceversa
 18. Given a number n , subtract one from it using bitwise operations.
 19. Given a decimal number n, return its binary equivalent.
-20. 
+20. You are given a string s, you need to print its characters at even indices(index starts at 0).
 
 
 
