@@ -39,6 +39,25 @@
 18. Given a number n , subtract one from it using bitwise operations.
 19. Given a decimal number n, return its binary equivalent.
 20. You are given a string s, you need to print its characters at even indices(index starts at 0).
+21. You are given a number n. The number n can be negative or positive. If n is negative, print numbers from n to 0 by adding 1 to n in the neg function. If positive, print numbers from n-1 to 0 by         subtracting 1 from n in the pos function.
+    Input:
+    n = 0
+    Output:
+    already Zero
+    Input:
+    n = 4
+    Output:
+    3 2 1 0
+22. You are given a string str, you need to return True if  the words "cat" and "hat" appear same number of times in str, otherwise return False.
+    Note: str contains only lowercase English alphabets.
+    Input:
+    str = catinahat
+    Output:
+    True
+    Explanation:
+    cat and hat both are present
+    1 number of times.
+23. 
 
 
 
