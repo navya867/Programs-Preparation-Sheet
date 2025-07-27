@@ -57,7 +57,17 @@
     Explanation:
     cat and hat both are present
     1 number of times.
-23. 
+23. print calculator by taking two input
+24. Write a program to check if a given year is a leap year.
+    Example:
+    Input: year = 2020
+    Output: Leap Year
+    Explanation: 2020 is divisible by 4 but not by 100, or it is divisible by 400, so it is a leap year.
+25. Write a program to determine if a number is prime.
+    Example:
+    Input: number = 7
+    Output: Prime
+    Explanation: 7 has no divisors other than 1 and itself, so it is a prime number.
 
 
 
