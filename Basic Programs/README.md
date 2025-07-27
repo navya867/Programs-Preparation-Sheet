@@ -68,6 +68,19 @@
     Input: number = 7
     Output: Prime
     Explanation: 7 has no divisors other than 1 and itself, so it is a prime number.
+26. Create the multiplication table from 1 to 10 for a given number n and return the table as an array.
+    Examples:
+    Input: n = 9
+    Output: 9 18 27 36 45 54 63 72 81 90
+27. Given two integers n and m (m != 0). The problem is to find the number closest to n and divisible by m. If there is more than one such number, then output the one having the maximum absolute value.
+    Input: n = -15, m = 6
+    Output: -18
+    Explanation: Both -12 and -18 are closest to -15 and divisible by 6, but -18 has the maximum absolute value. So, output is -18.
+28. You are given a cubic dice with 6 faces. All the individual faces have a number printed on them. The numbers are in the range of 1 to 6, like any ordinary dice. You will be provided with a face of     this cube, your task is to guess the number on the opposite face of the cube.
+    Input: n = 6
+    Output: 1
+    Explanation: For dice facing number 6 opposite face will have the number 1.
+29. 
 
 
 
