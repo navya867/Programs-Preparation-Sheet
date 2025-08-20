@@ -83,7 +83,7 @@
 29. Given 2 rectangles find if the given 2 rectangles overlap or not a rectangle is denoted by providing the x and y coordinate of 2 points, the left top corner and the right bottom corner of the           rectangle two rectangles sharing a side are considered overlapping (L1,R1 are extreme points of 1st and L2 and R2 is 2nd extreme points )
     i/p : L1=(0,10) R1=(10,0), L2=(5,5)
     O/P : 1 the rectangle overlap
-30. 
+
 
 
 
