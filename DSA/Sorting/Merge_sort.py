@@ -18,7 +18,7 @@ class Solution:
             temp.append(arr[right])
             right+=1
         for i in range(low,high+1):
-            arr[i]=temp[i-low]
+            arr[i]=temp[i-low]       #as low can be start from anywhere in arr but temp has to start from 0 so, we resetting it to 0 by sub low 
 
     def Mergesort(self,arr,low,high):
         if low>=high:
